@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScramblerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 484}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScramblerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1350}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 713}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Scrambler */ = {
+		activeExec = 0;
+		executables = (
+			9934DA2218EA0D24001AA1ED /* Scrambler */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScramblerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 581}}";
+			sepNavSelRange = "{645, 0}";
+			sepNavVisRange = "{0, 651}";
+			sepNavWindowFrame = "{{38, 261}, {936, 491}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScramblerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2235}}";
+			sepNavSelRange = "{1145, 0}";
+			sepNavVisRange = "{1009, 645}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9934DA2218EA0D24001AA1ED /* Scrambler */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Scrambler */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Scrambler */,
+		);
+		breakpoints = (
+			9934DAB218EA792C001AA1ED /* ScramblerViewController.m:17 */,
+		);
+		codeSenseManager = 9934DA3318EA0D45001AA1ED /* Code sense */;
+		executables = (
+			9934DA2218EA0D24001AA1ED /* Scrambler */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 418110220;
+			PBXWorkspaceStateSaveDate = 418110220;
+		};
+		perUserProjectItems = {
+			9934DA4818EA2692001AA1ED /* PBXTextBookmark */ = 9934DA4818EA2692001AA1ED /* PBXTextBookmark */;
+			9934DAF118EA99B9001AA1ED /* PBXTextBookmark */ = 9934DAF118EA99B9001AA1ED /* PBXTextBookmark */;
+			9934DAF218EA99B9001AA1ED /* PBXTextBookmark */ = 9934DAF218EA99B9001AA1ED /* PBXTextBookmark */;
+			9934DAF318EA99B9001AA1ED /* PBXTextBookmark */ = 9934DAF318EA99B9001AA1ED /* PBXTextBookmark */;
+			9934DAF418EA99B9001AA1ED /* PBXTextBookmark */ = 9934DAF418EA99B9001AA1ED /* PBXTextBookmark */;
+			9934DAF518EA99B9001AA1ED /* PBXTextBookmark */ = 9934DAF518EA99B9001AA1ED /* PBXTextBookmark */;
+			9941E5B218EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B218EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B318EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B318EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B418EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B418EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B518EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B518EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B618EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B618EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B718EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B718EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B818EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B818EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5B918EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5B918EBDB3F00AD98F7 /* PBXTextBookmark */;
+			9941E5BA18EBDB3F00AD98F7 /* PBXTextBookmark */ = 9941E5BA18EBDB3F00AD98F7 /* PBXTextBookmark */;
+			999D875818EBCD8F003BAACB /* PBXTextBookmark */ = 999D875818EBCD8F003BAACB /* PBXTextBookmark */;
+			999D875918EBCD8F003BAACB /* PBXTextBookmark */ = 999D875918EBCD8F003BAACB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9934DA3218EA0D45001AA1ED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9934DA2218EA0D24001AA1ED /* Scrambler */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Scrambler;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9934DA3218EA0D45001AA1ED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9934DA3318EA0D45001AA1ED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9934DA4318EA16F7001AA1ED /* ComputerScramblerPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 418}}";
+			sepNavSelRange = "{317, 0}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	9934DA4418EA16F7001AA1ED /* ComputerScramblerPlayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1815}}";
+			sepNavSelRange = "{378, 0}";
+			sepNavVisRange = "{182, 632}";
+		};
+	};
+	9934DA4818EA2692001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScramblerAppDelegate.m */;
+		name = "ScramblerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 0;
+	};
+	9934DA4F18EA3967001AA1ED /* ScramblerModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 420}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRange = "{208, 196}";
+		};
+	};
+	9934DA5018EA3967001AA1ED /* ScramblerModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1155}}";
+			sepNavSelRange = "{1053, 0}";
+			sepNavVisRange = "{855, 329}";
+			sepNavWindowFrame = "{{15, 282}, {936, 491}}";
+		};
+	};
+	9934DAB218EA792C001AA1ED /* ScramblerViewController.m:17 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScramblerViewController.m */;
+		functionName = "-guessTap:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 17;
+		modificationTime = 418019628.072666;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	9934DAF118EA99B9001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScramblerViewController.m */;
+		name = "ScramblerViewController.m: 28";
+		rLen = 0;
+		rLoc = 608;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 506;
+	};
+	9934DAF218EA99B9001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4418EA16F7001AA1ED /* ComputerScramblerPlayer.m */;
+		name = "ComputerScramblerPlayer.m: 111";
+		rLen = 0;
+		rLoc = 3136;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 47;
+	};
+	9934DAF318EA99B9001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4318EA16F7001AA1ED /* ComputerScramblerPlayer.h */;
+		name = "ComputerScramblerPlayer.h: 15";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 180;
+	};
+	9934DAF418EA99B9001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA5018EA3967001AA1ED /* ScramblerModel.m */;
+		name = "ScramblerModel.m: 39";
+		rLen = 0;
+		rLoc = 691;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 575;
+	};
+	9934DAF518EA99B9001AA1ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScramblerViewController.h */;
+		name = "ScramblerViewController.h: 25";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 308;
+	};
+	9941E5B218EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4F18EA3967001AA1ED /* ScramblerModel.h */;
+		name = "ScramblerModel.h: 19";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 208;
+	};
+	9941E5B318EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScramblerAppDelegate.h */;
+		name = "ScramblerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 484;
+		vrLoc = 0;
+	};
+	9941E5B418EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScramblerAppDelegate.m */;
+		name = "ScramblerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 713;
+		vrLoc = 0;
+	};
+	9941E5B518EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4F18EA3967001AA1ED /* ScramblerModel.h */;
+		name = "ScramblerModel.h: 12";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 0;
+	};
+	9941E5B618EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA5018EA3967001AA1ED /* ScramblerModel.m */;
+		name = "ScramblerModel.m: 63";
+		rLen = 0;
+		rLoc = 1053;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 855;
+	};
+	9941E5B718EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4318EA16F7001AA1ED /* ComputerScramblerPlayer.h */;
+		name = "ComputerScramblerPlayer.h: 18";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	9941E5B818EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4418EA16F7001AA1ED /* ComputerScramblerPlayer.m */;
+		name = "ComputerScramblerPlayer.m: 25";
+		rLen = 0;
+		rLoc = 378;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 182;
+	};
+	9941E5B918EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScramblerViewController.h */;
+		name = "ScramblerViewController.h: 25";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 0;
+	};
+	9941E5BA18EBDB3F00AD98F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScramblerViewController.h */;
+		name = "ScramblerViewController.h: 25";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 0;
+	};
+	999D875818EBCD8F003BAACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9934DA4F18EA3967001AA1ED /* ScramblerModel.h */;
+		name = "ScramblerModel.h: 19";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 207;
+	};
+	999D875918EBCD8F003BAACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScramblerViewController.m */;
+		name = "ScramblerViewController.m: 48";
+		rLen = 0;
+		rLoc = 1145;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 1009;
+	};
+}

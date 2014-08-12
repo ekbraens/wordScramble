@@ -1,0 +1,320 @@
+TScrambler
+v7
+r0
+t418028496.347745
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Info.plist" Scrambler-Info.plist
+cCompileXIB "/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib"
+cCompileXIB "/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib"
+cProcessPCH /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch.gch Scrambler_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/main.o "/Users/Iliana/Documents/wrox game/Scrambler/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerAppDelegate.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerViewController.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ComputerScramblerPlayer.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerModel.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler" normal i386
+cGenerateDSYMFile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app.dSYM" "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler"
+cTouch "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.h
+c00000000533A1110000000000000019F
+t1396314384
+s415
+i<Foundation/Foundation.h>
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m
+c00000000533A14B40000000000000C46
+t1396315316
+s3142
+i"ComputerScramblerPlayer.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.h
+c000000005339D5A400000000000001E4
+t1396299172
+s484
+i<UIKit/UIKit.h>
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m
+c000000005339D5A40000000000000AAD
+t1396299172
+s2733
+i"ScramblerAppDelegate.h"
+i"ScramblerViewController.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.h
+c00000000533A61F70000000000000216
+t1396335095
+s534
+i<Foundation/Foundation.h>
+i"ComputerScramblerPlayer.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m
+c00000000533A625E00000000000004A8
+t1396335198
+s1192
+i"ScramblerModel.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.h
+c00000000533A6177000000000000028B
+t1396334967
+s651
+i<UIKit/UIKit.h>
+i"ScramblerModel.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m
+c00000000533A63510000000000000E0A
+t1396335441
+s3594
+i"ScramblerViewController.h"
+
+N/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib
+c000000005339D5A40000000000004E41
+t1396299172
+s20033
+
+N/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib
+c00000000533A1E520000000000007B9C
+t1396317778
+s31644
+
+N/Users/Iliana/Documents/wrox game/Scrambler/Scrambler_Prefix.pch
+c000000005339D5A400000000000000BB
+t1396299172
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app
+t1396335441
+s238
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app.dSYM
+t1396335441
+s102
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Info.plist
+t1396300271
+s599
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/MainWindow.nib
+t1396300272
+s1685
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/PkgInfo
+t1396300271
+s8
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler
+t1396335441
+s31684
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/ScramblerViewController.nib
+t1396317910
+s5155
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ComputerScramblerPlayer.o
+t1396315317
+s17656
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/Scrambler.LinkFileList
+c00000000533A034200000000000002CF
+t1396310850
+s719
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerAppDelegate.o
+t1396335095
+s51804
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerModel.o
+t1396335198
+s11804
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerViewController.o
+t1396335441
+s56220
+
+N/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/main.o
+t1396300274
+s6320
+
+N/Users/Iliana/Documents/wrox game/Scrambler/main.m
+c000000005339D5A40000000000000164
+t1396299172
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch.gch
+t1396300273
+s15814064
+
+NScrambler-Info.plist
+c000000005339D5A4000000000000038D
+t1396299172
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies418028496#418028496#0(0"0(0#1#0"8612925280#0"0#
+
+CCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ComputerScramblerPlayer.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s418008116.916045
+e418008117.237880
+r1
+xCompileC
+xbuild/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ComputerScramblerPlayer.o
+x/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m418008116#418008117#0(0"0(0#0#77"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m8613828608#2077"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch -c "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ComputerScramblerPlayer.m" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ComputerScramblerPlayer.o"0#
+
+CCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerAppDelegate.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s418027895.774694
+e418027895.957418
+r1
+xCompileC
+xbuild/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerAppDelegate.o
+x/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m418027895#418027895#0(0"0(0#0#74"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m8617939136#2071"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch -c "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerAppDelegate.m" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerAppDelegate.o"0#
+
+CCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerModel.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s418027998.339306
+e418027998.600688
+r1
+xCompileC
+xbuild/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerModel.o
+x/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m: In function '-[ScramblerModel checkGuess:]':
+o/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m:59: warning: control reaches end of non-void function
+lSLF07#2@76"Compile /Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m418027998#418027998#0(238"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m: In function '-[ScramblerModel checkGuess:]':/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m:59: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function418027998#115#123#0(6@68"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m418027998#59#0#59#0#40"control reaches end of non-void function0(0#0#68"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m8613546464#2059"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch -c "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerModel.m" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerModel.o"0#
+
+CCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerViewController.o "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s418028241.354561
+e418028241.642439
+r1
+xCompileC
+xbuild/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerViewController.o
+x/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m418028241#418028241#0(0"0(0#0#77"/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m8617596352#2077"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch -c "/Users/Iliana/Documents/wrox game/Scrambler/Classes/ScramblerViewController.m" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/ScramblerViewController.o"0#
+
+CCompileC build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/main.o "/Users/Iliana/Documents/wrox game/Scrambler/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417993073.928065
+e417993074.185642
+r1
+xCompileC
+xbuild/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/main.o
+x/Users/Iliana/Documents/wrox game/Scrambler/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Iliana/Documents/wrox game/Scrambler/main.m417993073#417993074#0(0"0(0#0#50"/Users/Iliana/Documents/wrox game/Scrambler/main.m8612614688#2031"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch -c "/Users/Iliana/Documents/wrox game/Scrambler/main.m" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib"
+s417993071.640479
+e417993072.240242
+r1
+xCompileXIB
+x/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib417993071#417993072#0(0"0(0#0#58"/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib8612175136#593"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/MainWindow.nib" "/Users/Iliana/Documents/wrox game/Scrambler/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib"
+s418010709.519698
+e418010710.233800
+r1
+xCompileXIB
+x/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib
+lSLF07#2@38"CompileXIB ScramblerViewController.xib418010709#418010710#0(0"0(0#0#71"/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib8606384896#619"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/ScramblerViewController.nib" "/Users/Iliana/Documents/wrox game/Scrambler/ScramblerViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app.dSYM" "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler"
+s418028241.678834
+e418028241.701106
+r1
+xGenerateDSYMFile
+x/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app.dSYM
+x/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Scrambler.app.dSYM build/Debug-iphonesimulator/Scrambler.app/Scrambler418028241#418028241#0(0"0(0#0#95"/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler8613111680#410"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler" -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app.dSYM"0#
+
+CLd "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler" normal i386
+s418028241.642564
+e418028241.678696
+r1
+xLd
+x/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler
+xnormal
+xi386
+lSLF07#2@100"Link /Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler418028241#418028241#0(0"0(0#0#0"8613358432#945"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" -filelist "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Objects-normal/i386/Scrambler.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Scrambler"0#
+
+CProcessInfoPlistFile "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Info.plist" Scrambler-Info.plist
+s417993071.615401
+e417993071.640334
+r1
+xProcessInfoPlistFile
+x/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Info.plist
+xScrambler-Info.plist
+lSLF07#2@28"Process Scrambler-Info.plist417993071#417993071#0(0"0(0#0#64"/Users/Iliana/Documents/wrox game/Scrambler/Scrambler-Info.plist7236274654156911616#506"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Scrambler-Info.plist -genpkginfo "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app/Info.plist"0#
+
+CProcessPCH /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch.gch Scrambler_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s417993072.240513
+e417993073.927791
+r1
+xProcessPCH
+x/var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch.gch
+xScrambler_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Scrambler_Prefix.pch417993072#417993073#0(0"0(0#0#64"/Users/Iliana/Documents/wrox game/Scrambler/Scrambler_Prefix.pch8612584992#1914"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-generated-files.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-own-target-headers.hmap" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-all-target-headers.hmap" -iquote "/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/Scrambler-project-headers.hmap" "-F/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/include" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources/i386" "-I/Users/Iliana/Documents/wrox game/Scrambler/build/Scrambler.build/Debug-iphonesimulator/Scrambler.build/DerivedSources" -c "/Users/Iliana/Documents/wrox game/Scrambler/Scrambler_Prefix.pch" -o /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Scrambler_Prefix-bjtmonrhkbvthfbbquuvoobgxbgy/Scrambler_Prefix.pch.gch0#
+
+CTouch "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app"
+s418028241.701243
+e418028241.705188
+r1
+xTouch
+x/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app
+lSLF07#2@91"Touch /Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app418028241#418028241#0(0"0(0#0#0"8612927904#294"    cd "/Users/Iliana/Documents/wrox game/Scrambler"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Iliana/Documents/wrox game/Scrambler/build/Debug-iphonesimulator/Scrambler.app"0#
+
